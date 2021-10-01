@@ -3,6 +3,6 @@ Group Name: TEAM_NAME
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: deevyas2
+Team Members: deevyas2, ashwinj3
 
 Project Manager: csparks3
